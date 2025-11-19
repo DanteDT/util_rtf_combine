@@ -1,6 +1,6 @@
 # util_rtf_combine
 
-Thanks to @rogerjdeangelis for [preserving the original macro](https://github.com/rogerjdeangelis/utl-sas-macro-to-combine-rtf-files-into-one-single-file) from the now-defunct pharma-sas.com site. That is the source of this fork.
+Thanks to [@rogerjdeangelis](https://github.com/rogerjdeangelis) for [preserving the original macro](https://github.com/rogerjdeangelis/utl-sas-macro-to-combine-rtf-files-into-one-single-file) from the now-defunct pharma-sas.com site. That is the source of this fork.
 
 In case it helps others, I extended that original :
 - file-mask for fine-tuning RTF file selection
