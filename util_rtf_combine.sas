@@ -46,8 +46,9 @@
    ddt04 - hard-code page numbering since SAS 9.4 writes each page as a section,
            so we cannot combine RTFs and still use Page {PAGE} of {SECTIONPAGES},
            so we need to replace logical pages with hard-coded page numbers
-     + RTF 1.5 specs: 
+     + RTF references, 1.5 and 1.6: 
        https://www.biblioscape.com/rtf15_spec.htm
+       https://learn.microsoft.com/en-us/previous-versions/office/developer/office2000/aa140302(v=office.10)
    ddt05 - remove a few uninitialized variables (never used)
    ddt06 - added validate=Y/N option to produce before/after text files for comparison
    ddt07 - attempt to detect and correct for NULL REPORTs as noted above
