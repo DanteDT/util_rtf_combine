@@ -11,6 +11,9 @@ In case it helps others, I extended that original :
 
 See [util_rtf_combine.sas](util_rtf_combine.sas) modified version of pharma-sas.com original [utl_rtfcombine.sas](utl_rtfcombine.sas)
 
+Knows issues:
+- Windows-style backslashes in the code, since I was working in a Windows env at the time.
+
 References:
 - https://www.lexjansen.com/pharmasug/2010/PO/PO05.pdf
 - https://www.lexjansen.com/pharmasug-cn/2015/DV/PharmaSUG-China-2015-DV28.pdf
